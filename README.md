@@ -1,12 +1,12 @@
 #**DATA:**
 
-'userID' — ID pengguna
-'Track' — judul lagu
-'artist' — nama artis
-'genre'
-'City' — kota asal pengguna
-'time' — waktu saat lagu tersebut diputar
-'Day' — hari dalam seminggu
+* 'userID' — ID pengguna
+* 'Track' — judul lagu
+* 'artist' — nama artis
+* 'genre'
+* 'City' — kota asal pengguna
+* 'time' — waktu saat lagu tersebut diputar
+* 'Day' — hari dalam seminggu
 
 
 #**TUJUAN:**
