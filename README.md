@@ -1,4 +1,4 @@
-#**DATA:**
+**DATA:**
 
 * children - jumlah anak dalam keluarga
 * days_employed - pengalaman kerja nasabah dalam hari
@@ -13,12 +13,12 @@
 * total_income - pendapatan bulanan
 * purpose - tujuan mendapatkan pinjaman
   
-#**TUJUAN:**
+**TUJUAN:**
 Dalam proyek kali ini, saya akan menyiapkan laporan untuk divisi kredit suatu bank. saya akan mencari tahu pengaruh status perkawinan seorang nasabah dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam melunasi pinjaman.
 
 Laporan ini akan dipertimbangkan pada saat membuat penilaian kredit untuk calon nasabah. Penilaian kredit digunakan untuk mengevaluasi kemampuan calon peminjam untuk melunasi pinjaman mereka.
 
-#**LIBRARIES USED:**
+**LIBRARIES USED:**
 pandas
 
 
