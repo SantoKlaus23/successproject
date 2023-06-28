@@ -19,6 +19,7 @@ Dalam proyek kali ini, saya akan menyiapkan laporan untuk divisi kredit suatu ba
 Laporan ini akan dipertimbangkan pada saat membuat penilaian kredit untuk calon nasabah. Penilaian kredit digunakan untuk mengevaluasi kemampuan calon peminjam untuk melunasi pinjaman mereka.
 
 **LIBRARIES USED:**
+
 pandas
 
 
